@@ -33,7 +33,7 @@ public class EttBasic implements Ett {
 
 	List<TableSchemaVo> tableSchemaVoList = new ArrayList<TableSchemaVo>();
 
-    // main        --11
+    // main        --22
 	public static void main(String[] args) {
 		EttBasic ettBasic = new EttBasic();
 		
